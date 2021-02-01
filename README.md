@@ -1,2 +1,2 @@
 # Glowsite
-##By Akhil Mahesh
+By Akhil Mahesh
